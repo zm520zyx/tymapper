@@ -22,6 +22,5 @@ public class Test {
             System.out.println(user);
         }
         System.out.println("halou");
-        System.out.println("woshi mT");
     }
 }
